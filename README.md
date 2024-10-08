@@ -1,6 +1,6 @@
 # microfront-poc-globalState-Router
 
-Here’s a description you can use for your GitHub repository:
+
 
 ---
 
